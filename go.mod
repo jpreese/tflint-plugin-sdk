@@ -9,3 +9,5 @@ require (
 	github.com/hashicorp/hcl/v2 v2.5.1
 	github.com/zclconf/go-cty v1.4.1
 )
+
+replace github.com/hashicorp/hcl/v2 => github.com/wata727/hcl/v2 v2.5.2-0.20200524125616-d55b62d65182
